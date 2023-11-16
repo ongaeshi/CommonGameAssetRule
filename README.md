@@ -20,25 +20,25 @@ CommonGameAssetRule に沿ったプログラムに、CommonGameAssetRule に沿�
 
 | 名前 | 主な用途 | 縦横比 | 必須 | サンプルアセット |
 | -- | -- | -- | -- | -- |
-| player1.png | メインプレイヤー | 1:1 | 〇 | |
+| player1.png | メインプレイヤー | 1:1 | 〇 | ![](sample/player1.png) |
 | player2.png | サブプレイヤー | 1:1 |   | |
-| enemy1.png | 敵1 | 1:1 | 〇 | |
+| enemy1.png | 敵1 | 1:1 | 〇 | ![](sample/enemy1.png) |
 | enemy2.png | 敵2 | 1:1 |  | |
 | enemy3.png | 敵3 | 1:1 |  | |
 | enemy4.png | 敵4 | 1:1 |  | |
-| item1.png | アイテム1 | 1:1 | 〇 | |
+| item1.png | アイテム1 | 1:1 | 〇 | ![](sample/item1.png) |
 | item2.png | アイテム2 | 1:1 |  | |
 | item3.png | アイテム3 | 1:1 |  | |
 | item4.png | アイテム4 | 1:1 |  | |
-| weapon1.png | 武器1 | 1:1 | 〇 | |
+| weapon1.png | 武器1 | 1:1 | 〇 | ![](sample/weapon1.png) |
 | weapon2.png | 武器2 | 1:1 |  | |
 | weapon3.png | 武器3 | 1:1 |  | |
 | weapon4.png | 武器4 | 1:1 |  | |
-| boss1.png | ボス1 | 1:1 | 〇 | |
+| boss1.png | ボス1 | 1:1 | 〇 | ![](sample/boss1.png) |
 | boss2.png | ボス2 | 1:1 |  | |
-| background1.png | 背景1 | 16:9 | 〇 | |
+| background1.png | 背景1 | 16:9 | 〇 | ![](sample/background1.png) |
 | background2.png | 背景2 | 16:9 |  | |
-| tile1.png | 地形タイル1 | 1:1 | 〇 | |
+| tile1.png | 地形タイル1 | 1:1 | 〇 | ![](sample/tile1.png) |
 | tile2.png | 地形タイル2 | 1:1 |  | |
 | tile3.png | 地形タイル3 | 1:1 |  | |
 | tile4.png | 地形タイル4 | 1:1 |  | |
@@ -55,3 +55,6 @@ CommonGameAssetRule に沿ったプログラムに、CommonGameAssetRule に沿�
 - プログラム側で用途に応じてアセットをスケーリングするのはOK。縦長など均等ではないスケーリングもOK。
 
 # ショーケース
+
+# リンク
+- https://www.kenney.nl/assets/pixel-line-platformer
