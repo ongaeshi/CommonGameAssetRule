@@ -57,7 +57,8 @@ CommonGameAssetRule に沿ったプログラムに、CommonGameAssetRule に沿�
 - (Optional) enemy2 の代わりに enemy1 を使う場合、enemy1 と見た目の違いが分かるようにするのが望ましい。例えば enemy2(R=255)、enemy3(G=255)、enemy4(B=255)のようにカラーをブレンドするなど。
 - プログラム側で用途に応じてアセットをスケーリングするのはOK。縦長など均等ではないスケーリングもOK。
 
-# ショーケース
+# サンプル
+- [CommonGameAssetSample.zip](https://github.com/ongaeshi/CommonGameAssetRule/releases/download/v0.0.1/CommonGameAssetSample.zip)
 
 # リンク
 - https://www.kenney.nl/assets/pixel-line-platformer
